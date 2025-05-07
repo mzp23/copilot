@@ -43,7 +43,7 @@ activities = {
         "description": "Join the school soccer team and compete in matches",
         "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
         "max_participants": 22,
-        "participants": ["liam@mergington.edu", "noah@mergington.edu"]
+    "participants": ["liam@mergington.edu", "noah@mergington.edu"]
     },
     "Basketball Team": {
         "description": "Practice basketball skills and play in tournaments",
